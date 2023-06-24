@@ -1,0 +1,24 @@
+{
+  "name": "nodejsserver",
+  "version": "1.0.0",
+  "description": "A web server with users data that can be edited",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pavan-Polisetty/Pavan-Polisetty-CSC-560-Unit-1-ASIGNMENT-1.1"
+  },
+  "author": "Pavan Polisetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavan-Polisetty/Pavan-Polisetty-CSC-560-Unit-1-ASIGNMENT-1.1/issues"
+  },
+  "homepage": "https://github.com/Pavan-Polisetty/Pavan-Polisetty-CSC-560-Unit-1-ASIGNMENT-1.1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "expression": "^0.0.1"
+  }
+}
